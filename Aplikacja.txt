@@ -2,14 +2,11 @@
         System.out.println("Podaj nazwe użytkownika");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
-   public void logowanie() {
+	System.out.println("Kliknij na przycisk potwierdź logowanie");
+	  public void logowanie() {
         System.out.println("Podaj nazwe użytkownika");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
-   public void logowanie() {
-        System.out.println("Podaj nazwe użytkownika");
-        System.out.println("Podaj poprawne hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
+	System.out.println("Kliknij w meila i przyponij hasło");
+
     }
